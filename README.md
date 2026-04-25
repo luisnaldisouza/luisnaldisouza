@@ -15,6 +15,8 @@ Atualmente atuo como estagiário em Suporte de Vendas na Signify, com interesse 
 
 Tenho buscado desenvolver habilidades que conectem dados, processos comerciais e tomada de decisão, principalmente utilizando Python, Excel, Power BI e SQL.
 
+Também tenho conhecimentos em C, C++ e Arduino, com interesse em aplicações práticas envolvendo tecnologia, automação e análise de dados.
+
 ---
 
 ## Atualmente estudando
@@ -30,18 +32,6 @@ Tenho buscado desenvolver habilidades que conectem dados, processos comerciais e
 
 ---
 
-## Áreas de interesse
-
-- Análise de dados aplicada à área comercial
-- Business Intelligence
-- Inteligência de mercado
-- Automação de processos com Python
-- Criação de dashboards e indicadores
-- Organização e tratamento de bases de dados
-- Apoio à tomada de decisão comercial
-
----
-
 ## Ferramentas e tecnologias
 
 <div align="center">
@@ -51,9 +41,25 @@ Tenho buscado desenvolver habilidades que conectem dados, processos comerciais e
 <img src="https://img.shields.io/badge/SQL-Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+---
+
+## Áreas de interesse
+
+- Análise de dados aplicada à área comercial
+- Business Intelligence
+- Inteligência de mercado
+- Automação de processos com Python
+- Criação de dashboards e indicadores
+- Organização e tratamento de bases de dados
+- Apoio à tomada de decisão comercial
+- Eficiência operacional em processos comerciais
 
 ---
 
@@ -67,6 +73,7 @@ Atualmente estou desenvolvendo projetos simples e práticos para fortalecer minh
 - Estudos de performance entre diferentes formatos de arquivo
 - Organização de dados para análises comerciais
 - Criação de relatórios e indicadores
+- Automatização de tarefas repetitivas com Python
 
 ---
 
@@ -99,11 +106,6 @@ Atualmente estou desenvolvendo projetos simples e práticos para fortalecer minh
 </a>
 
 </div>
-
-<!--
-**luisnaldisouza/luisnaldisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
