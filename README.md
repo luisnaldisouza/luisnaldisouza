@@ -15,7 +15,7 @@ Atualmente atuo como estagiário em Suporte de Vendas na Signify, com interesse 
 
 Tenho buscado desenvolver habilidades que conectem dados, processos comerciais e tomada de decisão, principalmente utilizando Python, Excel, Power BI e SQL.
 
-Também tenho conhecimentos em C, C++ e Arduino, com interesse em aplicações práticas envolvendo tecnologia, automação e análise de dados.
+Também tenho conhecimentos em C, C++, Arduino, Docker e ROS, com interesse em aplicações práticas envolvendo tecnologia, automação, robótica e análise de dados.
 
 ---
 
@@ -44,6 +44,8 @@ Também tenho conhecimentos em C, C++ e Arduino, com interesse em aplicações p
 <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-Hardware-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -60,20 +62,20 @@ Também tenho conhecimentos em C, C++ e Arduino, com interesse em aplicações p
 - Organização e tratamento de bases de dados
 - Apoio à tomada de decisão comercial
 - Eficiência operacional em processos comerciais
+- Automação, robótica e aplicações com ROS
 
 ---
 
 ## Projetos e estudos
 
-Atualmente estou desenvolvendo projetos simples e práticos para fortalecer minha base em dados, como:
+Atualmente estou desenvolvendo projetos simples e práticos para fortalecer minha base em dados e tecnologia, como:
 
-- Análise de arquivos CSV, JSON e Parquet
-- Consultas SQL com DuckDB
 - Tratamento e comparação de bases de dados
-- Estudos de performance entre diferentes formatos de arquivo
 - Organização de dados para análises comerciais
 - Criação de relatórios e indicadores
 - Automatização de tarefas repetitivas com Python
+- Estudos aplicados com Excel, Power BI e SQL
+- Desenvolvimento de análises voltadas para processos comerciais
 
 ---
 
@@ -102,17 +104,7 @@ Atualmente estou desenvolvendo projetos simples e práticos para fortalecer minh
 </a>
 
 <a href="https://www.instagram.com/l.naldi_/">
-  <img src="https://img.shields.io/badge/Instagram-%40l.naldi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%40l.naldi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
